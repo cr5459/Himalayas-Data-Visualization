@@ -29,8 +29,6 @@ valid_years = (
 min_year = min(valid_years)
 max_year = max(valid_years)
 
-# -- Sidebar Layout and Controls --
-
 # -- Header & Intro Text --
 text("# Project Himalaya: Basecamp Analytics")
 text("## Explore expedition trends from top nations across all time or a specific year.")
